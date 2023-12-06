@@ -1,0 +1,347 @@
+﻿[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: CRKuro,Trebuchet MS,26,&H00FFFFFF,&H0000FFFF,&H00000000,&H00202020,0,0,0,0,100,100,0,0,1,2,2,2,0001,0001,0015,0
+Style: EpTitle,Arial,28,&H00FFFFFF,&H000000FF,&H000D0D13,&H00000000,-1,0,0,0,100,100,0,0,1,0,2,8,0001,0001,0015,1
+Style: NextEpTitle,Arial,28,&H00FFFFFF,&H000000FF,&H000D0D13,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,8,0001,0001,0015,1
+Style: Preview,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,7,0050,0015,0070,0
+Style: ScoreboardL,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,7,0020,0020,0020,0
+Style: ScoreboardR,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:32.42,0:01:34.07,CRKuro,,0000,0000,0000,,{\i1}Mi poder de salto...{\i0}
+Dialogue: 0,0:01:34.48,0:01:36.92,CRKuro,,0000,0000,0000,,{\i1}Un estilo que utiliza esa fuerza...{\i0}
+Dialogue: 0,0:01:37.72,0:01:40.22,CRKuro,,0000,0000,0000,,{\i1}Solo hay una respuesta...{\i0}
+Dialogue: 0,0:01:40.69,0:01:42.00,CRKuro,,0000,0000,0000,,{\i1}¡combate aéreo!{\i0}
+Dialogue: 0,0:01:42.36,0:01:45.73,CRKuro,,0000,0000,0000,,{\i1}¡Esa es la única área en \Nla que tengo oportunidad de{\i0}
+Dialogue: 0,0:01:48.55,0:01:49.42,CRKuro,,0000,0000,0000,,¿Qué sucede?
+Dialogue: 0,0:01:50.67,0:01:54.64,CRKuro,,0000,0000,0000,,Kagami-kun, podrías vencer a la {\i1}Generación \NMilagrosa{\i0} en un combate aéreo...
+Dialogue: 0,0:01:55.51,0:01:58.21,CRKuro,,0000,0000,0000,,pero quizá no podrías \Nvencerlos en el suelo.
+Dialogue: 0,0:01:58.96,0:02:00.91,CRKuro,,0000,0000,0000,,Mis pases no sirven contra ellos.
+Dialogue: 0,0:02:01.92,0:02:06.04,CRKuro,,0000,0000,0000,,Si no puedes hacerlo, nadie más \Nen Seirin tiene oportunidad.
+Dialogue: 0,0:02:08.58,0:02:10.80,CRKuro,,0000,0000,0000,,Pero acabo de tener una idea,
+Dialogue: 0,0:02:11.68,0:02:16.06,CRKuro,,0000,0000,0000,,un nuevo estilo de baloncesto que aproveche \Nlo mejor de ti y del resto del equipo.
+Dialogue: 0,0:02:17.87,0:02:23.20,CRKuro,,0000,0000,0000,,Si mejoro mi manejo, además de mis pases, \Nsobrepasaré a la {\i1}Generación Milagrosa{\i0}.
+Dialogue: 0,0:02:27.03,0:02:29.11,CRKuro,,0000,0000,0000,,No perderé, Aominecchi.
+Dialogue: 0,0:02:29.81,0:02:33.60,CRKuro,,0000,0000,0000,,¿Hasta ahora me has vencido alguna vez?
+Dialogue: 0,0:02:34.67,0:02:38.06,CRKuro,,0000,0000,0000,,Realmente no quiero perder en tu contra.
+Dialogue: 0,0:02:41.97,0:02:46.93,EpTitle,,0000,0000,0000,,Episodio 23: \N¡No soy maduro!
+Dialogue: 0,0:02:50.97,0:02:52.12,CRKuro,,0000,0000,0000,,¡Eso fue increíble!
+Dialogue: 0,0:02:52.12,0:02:52.88,CRKuro,,0000,0000,0000,,¿Qué es?
+Dialogue: 0,0:02:53.13,0:02:54.98,CRKuro,,0000,0000,0000,,Es la prueba de levantamientos.
+Dialogue: 0,0:02:55.22,0:02:58.99,CRKuro,,0000,0000,0000,,¡Solo Kise-kun y Tanaka-kun del equipo de \Nfútbol no han dejado caer el balón ni una vez!
+Dialogue: 0,0:02:59.32,0:03:02.08,CRKuro,,0000,0000,0000,,203, 204, 205...
+Dialogue: 0,0:03:02.28,0:03:05.08,CRKuro,,0000,0000,0000,,{\i1}Ya puedo hacer esto luego de \Nver a alguien por un tiempo. {\i0}
+Dialogue: 0,0:03:05.47,0:03:09.10,CRKuro,,0000,0000,0000,,{\i1}Más que nada, no puedo creer que \Nhay quienes NO puede hacer esto.{\i0}
+Dialogue: 0,0:03:09.46,0:03:13.29,CRKuro,,0000,0000,0000,,{\i1}Dijo que sacaríamos A si la \Nlevantábamos más de 100 veces, {\i0}
+Dialogue: 0,0:03:14.48,0:03:15.67,CRKuro,,0000,0000,0000,,{\i1}así que supongo que ya terminé.{\i0}
+Dialogue: 0,0:03:18.72,0:03:23.66,CRKuro,,0000,0000,0000,,{\i1}Buen estilo, buen atleta y \Ntambién buen estudiante... {\i0}
+Dialogue: 0,0:03:24.71,0:03:26.30,CRKuro,,0000,0000,0000,,{\i1}Pero estoy aburrido.{\i0}
+Dialogue: 0,0:03:28.16,0:03:32.45,CRKuro,,0000,0000,0000,,{\i1}Me gustan los deportes, pero \Nsiempre los domino muy rápido. {\i0}
+Dialogue: 0,0:03:32.91,0:03:36.04,CRKuro,,0000,0000,0000,,{\i1}Si juego lo suficiente, no queda \Nnadie con quien enfrentarme.{\i0}
+Dialogue: 0,0:03:37.25,0:03:41.00,CRKuro,,0000,0000,0000,,{\i1}Alguien, por favor, \Nencienda una llama en mí.{\i0}
+Dialogue: 0,0:03:41.49,0:03:44.87,CRKuro,,0000,0000,0000,,{\i1}Me pregunto si hay alguien tan increíble \Nque yo no tenga la oportunidad de vencerle. {\i0}
+Dialogue: 0,0:03:45.16,0:03:46.67,CRKuro,,0000,0000,0000,,{\i1}Tiene que existir en algún lugar. {\i0}
+Dialogue: 0,0:03:46.67,0:03:47.90,CRKuro,,0000,0000,0000,,{\i1}Ven.{\i0}
+Dialogue: 0,0:03:49.03,0:03:50.34,CRKuro,,0000,0000,0000,,Solo era broma...
+Dialogue: 0,0:03:50.60,0:03:51.51,CRKuro,,0000,0000,0000,,¡Duele!
+Dialogue: 0,0:03:52.50,0:03:53.83,CRKuro,,0000,0000,0000,,Lo siento, lo siento.
+Dialogue: 0,0:03:55.44,0:03:58.67,CRKuro,,0000,0000,0000,,Eres el famoso modelo Kise-kun.
+Dialogue: 0,0:03:59.03,0:04:00.42,CRKuro,,0000,0000,0000,,¿Cuál es tu problema?
+Dialogue: 0,0:04:00.97,0:04:01.81,CRKuro,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:04:04.09,0:04:07.06,CRKuro,,0000,0000,0000,,{\i1}Así que baloncesto, \Ntodavía no lo intento...{\i0}
+Dialogue: 0,0:04:08.27,0:04:12.80,CRKuro,,0000,0000,0000,,{\i1}Ahora que lo pienso, escuché que \Nnuestra escuela es muy fuerte. {\i0}
+Dialogue: 0,0:04:24.12,0:04:27.65,CRKuro,,0000,0000,0000,,{\i1}Increíble. Esa velocidad, \Nesos movimientos... {\i0}
+Dialogue: 0,0:04:27.79,0:04:28.76,CRKuro,,0000,0000,0000,,{\i1}¿Puedo hacer eso? {\i0}
+Dialogue: 0,0:04:29.20,0:04:31.50,CRKuro,,0000,0000,0000,,{\i1}Es imposible. No, quizá si trato... {\i0}
+Dialogue: 0,0:04:32.22,0:04:35.85,CRKuro,,0000,0000,0000,,{\i1}¡Oh, bien! ¡Encontré a alguien asombroso!{\i0}
+Dialogue: 0,0:04:39.28,0:04:43.64,CRKuro,,0000,0000,0000,,{\i1}Avanzando, sin importar cuánto me \Nesfuerce, nunca podré alcanzarle...{\i0}
+Dialogue: 0,0:04:44.04,0:04:46.18,CRKuro,,0000,0000,0000,,{\i1}¡Pero eso es exactamente lo que quiero! {\i0}
+Dialogue: 0,0:04:51.40,0:04:53.72,CRKuro,,0000,0000,0000,,{\i1}¡Quiero jugar baloncesto con este tipo! {\i0}
+Dialogue: 0,0:04:55.21,0:04:57.76,CRKuro,,0000,0000,0000,,{\i1}Algún día... algún día... {\i0}
+Dialogue: 0,0:05:01.31,0:05:04.43,CRKuro,,0000,0000,0000,,{\i1}No es algún día.{\i0}
+Dialogue: 0,0:05:05.58,0:05:08.46,CRKuro,,0000,0000,0000,,{\i1}Hoy es el día.{\i0}
+Dialogue: 0,0:05:13.39,0:05:14.80,CRKuro,,0000,0000,0000,,¡El juego está comenzando!
+Dialogue: 0,0:05:15.10,0:05:16.67,CRKuro,,0000,0000,0000,,¡El balón es primero de Kaijo!
+Dialogue: 0,0:05:17.80,0:05:19.05,CRKuro,,0000,0000,0000,,{\i1}¿Cómo jugarán?{\i0}
+Dialogue: 0,0:05:19.15,0:05:21.83,CRKuro,,0000,0000,0000,,{\i1}Habiendo jugado contra \NKise-kun y Aomine-kun, {\i0}
+Dialogue: 0,0:05:22.10,0:05:25.55,CRKuro,,0000,0000,0000,,{\i1}honestamente siento que \NAomine-kun es mejor...{\i0}
+Dialogue: 0,0:05:26.49,0:05:28.45,CRKuro,,0000,0000,0000,,Olvida las pequeñeces.
+Dialogue: 0,0:05:29.66,0:05:31.45,CRKuro,,0000,0000,0000,,Nuestro jugador estrella es...
+Dialogue: 0,0:05:33.15,0:05:33.98,CRKuro,,0000,0000,0000,,¡Kise!
+Dialogue: 0,0:05:39.38,0:05:42.22,CRKuro,,0000,0000,0000,,¡Kise contra Aomine! ¡Ya llegaron a eso!
+Dialogue: 0,0:05:53.94,0:05:54.97,CRKuro,,0000,0000,0000,,¡Pasó tras de él!
+Dialogue: 0,0:06:00.27,0:06:02.73,CRKuro,,0000,0000,0000,,Eres tan débil como siempre.
+Dialogue: 0,0:06:03.20,0:06:06.00,CRKuro,,0000,0000,0000,,¿Pensaste que me esquivaste con eso?
+Dialogue: 0,0:06:06.67,0:06:07.79,CRKuro,,0000,0000,0000,,¡No, es un robo!
+Dialogue: 0,0:06:07.98,0:06:09.35,CRKuro,,0000,0000,0000,,¡Touou va al contraataque!
+Dialogue: 0,0:06:13.72,0:06:14.85,CRKuro,,0000,0000,0000,,{\i1}Número 8...{\i0}
+Dialogue: 0,0:06:14.89,0:06:16.57,CRKuro,,0000,0000,0000,,{\i1}Este tipo es mejor defendiendo \Nde lo que parece. {\i0}
+Dialogue: 0,0:06:16.71,0:06:18.50,CRKuro,,0000,0000,0000,,{\i1}En ese caso...{\i0}
+Dialogue: 0,0:06:20.42,0:06:21.79,CRKuro,,0000,0000,0000,,¡Perdón!
+Dialogue: 0,0:06:23.04,0:06:25.00,CRKuro,,0000,0000,0000,,{\i1}¡Qué tiro tan rápido!{\i0}
+Dialogue: 0,0:06:33.45,0:06:35.91,ScoreboardL,SIGN,0000,0000,0000,,Kaijo
+Dialogue: 0,0:06:33.45,0:06:35.91,ScoreboardR,SIGN,0000,0000,0000,,Academia Touou
+Dialogue: 0,0:06:36.85,0:06:38.21,CRKuro,,0000,0000,0000,,Un tiro de tres puntos.
+Dialogue: 0,0:06:38.67,0:06:40.97,CRKuro,,0000,0000,0000,,Parece que Touo se llevó \Nlos primeros puntos.
+Dialogue: 0,0:06:52.69,0:06:54.18,CRKuro,,0000,0000,0000,,¿Qué? ¿Otra vez Kise-kun?
+Dialogue: 0,0:06:58.17,0:07:00.37,CRKuro,,0000,0000,0000,,{\i1}Eso es... ¿Qué?{\i0}
+Dialogue: 0,0:07:00.99,0:07:03.45,CRKuro,,0000,0000,0000,,{\i1}¡Ese es el tiro rápido de Sakurai! {\i0}
+Dialogue: 0,0:07:04.48,0:07:07.06,CRKuro,,0000,0000,0000,,Veo que aún eres hábil \Ncopiando a las personas.
+Dialogue: 0,0:07:07.69,0:07:10.65,CRKuro,,0000,0000,0000,,¡Pero eso no es suficiente para ganar!
+Dialogue: 0,0:07:15.57,0:07:18.90,CRKuro,,0000,0000,0000,,{\i1}¡Es veloz! ¡Tocó el balón aun \Ndespués de haber saltado tarde!{\i0}
+Dialogue: 0,0:07:19.87,0:07:23.60,CRKuro,,0000,0000,0000,,{\i1}No puede ser bueno para ellos que detengan \Nrepetidas veces a su jugador estrella. {\i0}
+Dialogue: 0,0:07:24.45,0:07:27.13,CRKuro,,0000,0000,0000,,{\i1}Si consiguen hacer un pare de esto...{\i0}
+Dialogue: 0,0:07:28.06,0:07:30.24,CRKuro,,0000,0000,0000,,{\i1}¡Tenemos el control del juego! {\i0}
+Dialogue: 0,0:07:33.89,0:07:35.20,CRKuro,,0000,0000,0000,,{\i1}¿Qué?{\i0}
+Dialogue: 0,0:07:40.46,0:07:44.82,CRKuro,,0000,0000,0000,,¡No somos tan generosos para entregar \Nel control del juego tan fácilmente!
+Dialogue: 0,0:07:47.40,0:07:48.82,ScoreboardL,SIGN,0000,0000,0000,,Kaijo
+Dialogue: 0,0:07:47.40,0:07:48.82,ScoreboardR,SIGN,0000,0000,0000,,Academia Touou
+Dialogue: 0,0:07:50.06,0:07:51.11,CRKuro,,0000,0000,0000,,¡Están empate!
+Dialogue: 0,0:07:51.87,0:07:54.50,CRKuro,,0000,0000,0000,,¡Defensa! ¡Detengámoslos!
+Dialogue: 0,0:07:54.60,0:07:55.32,CRKuro,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:07:56.55,0:07:59.13,CRKuro,,0000,0000,0000,,{\i1}¿Hizo un tiro repentino desde ahí?{\i0}
+Dialogue: 0,0:07:59.82,0:08:02.72,CRKuro,,0000,0000,0000,,Pudo reagruparse antes de atacar...
+Dialogue: 0,0:08:03.23,0:08:05.77,CRKuro,,0000,0000,0000,,{\i1}¡Le dieron vuelta al juego \Ny retomaron el control!{\i0}
+Dialogue: 0,0:08:07.16,0:08:09.34,CRKuro,,0000,0000,0000,,¡Te daremos todo el apoyo que necesites!
+Dialogue: 0,0:08:09.60,0:08:10.59,CRKuro,,0000,0000,0000,,¡Continúa!
+Dialogue: 0,0:08:11.03,0:08:12.02,CRKuro,,0000,0000,0000,,Senpai...
+Dialogue: 0,0:08:12.93,0:08:15.83,CRKuro,,0000,0000,0000,,¡Sin embargo, no dije que \Npodías dejar que te atraparan!
+Dialogue: 0,0:08:16.01,0:08:17.14,CRKuro,,0000,0000,0000,,¡Perdón!
+Dialogue: 0,0:08:23.21,0:08:27.55,CRKuro,,0000,0000,0000,,{\i1}¡Estos tipos están animándose! \NTratan de tomar el control... {\i0}
+Dialogue: 0,0:08:28.01,0:08:29.91,CRKuro,,0000,0000,0000,,Casi toman el control del juego.
+Dialogue: 0,0:08:30.51,0:08:32.45,CRKuro,,0000,0000,0000,,Kasamatsu-kun, ¿no?
+Dialogue: 0,0:08:33.44,0:08:37.81,CRKuro,,0000,0000,0000,,Tiene buenas habilidades de \Nliderazgo. No hay muchos como él.
+Dialogue: 0,0:08:38.70,0:08:41.57,CRKuro,,0000,0000,0000,,Si no lo detenemos no \Npodremos tomar el control.
+Dialogue: 0,0:08:47.23,0:08:50.58,CRKuro,,0000,0000,0000,,Ya veo. ¡Qué senpai tan digno de confianza!
+Dialogue: 0,0:08:51.43,0:08:55.34,CRKuro,,0000,0000,0000,,Si no puedes enfrentarme tú solo, \Ntodos me enfrentarán juntos, ¿no?
+Dialogue: 0,0:08:56.57,0:08:59.53,CRKuro,,0000,0000,0000,,Así que has comenzado a pensar como Tetsu.
+Dialogue: 0,0:09:00.12,0:09:02.36,CRKuro,,0000,0000,0000,,¿Tuviste un cambio de actitud \Nluego de perder en su contra?
+Dialogue: 0,0:09:02.56,0:09:04.01,CRKuro,,0000,0000,0000,,Me estás aburriendo.
+Dialogue: 0,0:09:04.58,0:09:09.66,CRKuro,,0000,0000,0000,,¿Qué? No dije nada de eso.
+Dialogue: 0,0:09:12.70,0:09:13.61,CRKuro,,0000,0000,0000,,{\i1}¡Maldito!{\i0}
+Dialogue: 0,0:09:14.66,0:09:17.36,CRKuro,,0000,0000,0000,,{\i1}No tienen brechas. Su defensa es buena. {\i0}
+Dialogue: 0,0:09:18.73,0:09:23.51,CRKuro,,0000,0000,0000,,Supongo que he llegado a reconocer \Nlas ideas de Kurokocchi.
+Dialogue: 0,0:09:25.13,0:09:27.93,CRKuro,,0000,0000,0000,,Hasta quiero que Kaijo gane.
+Dialogue: 0,0:09:29.91,0:09:34.36,CRKuro,,0000,0000,0000,,Pero no me importa qué es lo correcto.
+Dialogue: 0,0:09:35.35,0:09:37.73,CRKuro,,0000,0000,0000,,Solo quiero vencerte.
+Dialogue: 0,0:09:39.71,0:09:45.01,CRKuro,,0000,0000,0000,,¡No soy tan maduro como para jugar \Nbaloncesto con la razón y no con el instinto! {El titulo sale de aquí}
+Dialogue: 0,0:09:47.91,0:09:49.14,CRKuro,,0000,0000,0000,,Vamos.
+Dialogue: 0,0:09:51.52,0:09:55.98,CRKuro,,0000,0000,0000,,{\i1}En lo referente a habilidad física, \NKise no es nada peor que Aomine... {\i0}
+Dialogue: 0,0:09:56.81,0:10:02.17,CRKuro,,0000,0000,0000,,{\i1}Pero todavía no estoy seguro de que pueda \Nvencer a Aomine en un hombre a hombre. {\i0}
+Dialogue: 0,0:10:07.48,0:10:08.32,CRKuro,,0000,0000,0000,,¿Un pase?
+Dialogue: 0,0:10:17.48,0:10:19.03,CRKuro,,0000,0000,0000,,{\i1}¡Qué cambio tan veloz!{\i0}
+Dialogue: 0,0:10:27.64,0:10:31.76,CRKuro,,0000,0000,0000,,Increíble... ¡Lo detuvo, a esa velocidad!
+Dialogue: 0,0:10:32.40,0:10:34.34,CRKuro,,0000,0000,0000,,Todavía no se termina.
+Dialogue: 0,0:10:38.21,0:10:39.62,CRKuro,,0000,0000,0000,,¡Un tiro sin forma!
+Dialogue: 0,0:10:47.00,0:10:47.77,CRKuro,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:10:51.68,0:10:52.63,CRKuro,,0000,0000,0000,,¿En serio?
+Dialogue: 0,0:10:54.93,0:10:56.04,CRKuro,,0000,0000,0000,,Él detuvo...
+Dialogue: 0,0:10:56.22,0:10:57.63,CRKuro,,0000,0000,0000,,por completo...
+Dialogue: 0,0:10:58.72,0:11:00.07,CRKuro,,0000,0000,0000,,¡A Aomine!
+Dialogue: 0,0:11:08.70,0:11:09.71,CRKuro,,0000,0000,0000,,¡Increíble!
+Dialogue: 0,0:11:09.71,0:11:11.20,CRKuro,,0000,0000,0000,,¡Detuvo a Aomine!
+Dialogue: 0,0:11:12.33,0:11:14.31,CRKuro,,0000,0000,0000,,{\i1}Estoy impresionado. {\i0}
+Dialogue: 0,0:11:14.55,0:11:17.94,CRKuro,,0000,0000,0000,,{\i1}Esta es la primera vez que veo a alguien \Ndeteniendo a Aomine en un hombre a hombre. {\i0}
+Dialogue: 0,0:11:20.70,0:11:22.94,CRKuro,,0000,0000,0000,,No pensé que realmente me detendrías.
+Dialogue: 0,0:11:23.46,0:11:28.93,CRKuro,,0000,0000,0000,,¿Quién crees que era el que jugaba y perdía \Ntodos los días contra ti en un hombre a hombre?
+Dialogue: 0,0:11:30.12,0:11:33.28,CRKuro,,0000,0000,0000,,Te conozco mejor que nadie.
+Dialogue: 0,0:11:34.88,0:11:36.03,CRKuro,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:11:42.48,0:11:44.72,CRKuro,,0000,0000,0000,,¡Aominecchi! ¡Juguemos!
+Dialogue: 0,0:11:55.93,0:11:57.79,CRKuro,,0000,0000,0000,,¡Un juego más! ¡Un juego más!
+Dialogue: 0,0:11:57.95,0:12:00.45,CRKuro,,0000,0000,0000,,¡Imposible! Ya terminé por hoy.
+Dialogue: 0,0:12:00.65,0:12:02.55,CRKuro,,0000,0000,0000,,¿Qué hora crees que es?
+Dialogue: 0,0:12:02.79,0:12:04.06,CRKuro,,0000,0000,0000,,Maldición...
+Dialogue: 0,0:12:05.27,0:12:08.66,CRKuro,,0000,0000,0000,,{\i1}Maldición, estoy sonriendo. \NÉl es realmente fuerte... {\i0}
+Dialogue: 0,0:12:09.10,0:12:11.44,CRKuro,,0000,0000,0000,,{\i1}¡Pero perder aún apesta!{\i0}
+Dialogue: 0,0:12:11.76,0:12:15.68,CRKuro,,0000,0000,0000,,{\i1}Duele, pero aún me divierto. \N¿Qué sentimiento es este? {\i0}
+Dialogue: 0,0:12:22.33,0:12:24.81,CRKuro,,0000,0000,0000,,¿Por qué no juegas un \Npoco más suave con él?
+Dialogue: 0,0:12:24.87,0:12:26.81,CRKuro,,0000,0000,0000,,Kise-kun es un novato. { no ha jugado antes}
+Dialogue: 0,0:12:27.07,0:12:28.56,CRKuro,,0000,0000,0000,,¿Ser suave con él?
+Dialogue: 0,0:12:31.77,0:12:33.54,CRKuro,,0000,0000,0000,,No puedo permitirme hacer eso.
+Dialogue: 0,0:12:36.10,0:12:38.52,CRKuro,,0000,0000,0000,,...san. Momoi-san.
+Dialogue: 0,0:12:39.17,0:12:40.02,CRKuro,,0000,0000,0000,,Momoi-san.
+Dialogue: 0,0:12:40.26,0:12:42.11,CRKuro,,0000,0000,0000,,¿Qué? Perdón.
+Dialogue: 0,0:12:42.68,0:12:45.99,CRKuro,,0000,0000,0000,,¿Le diste a Aomine-kun la \Ninformación de Kise-kun?
+Dialogue: 0,0:12:47.30,0:12:51.11,CRKuro,,0000,0000,0000,,Lo siento. Se rehusó a aceptarla.
+Dialogue: 0,0:12:52.04,0:12:55.73,CRKuro,,0000,0000,0000,,Entonces, puede que la \Ndefensa sea algo difícil.
+Dialogue: 0,0:12:57.32,0:12:59.07,CRKuro,,0000,0000,0000,,No, estaremos bien.
+Dialogue: 0,0:13:00.00,0:13:01.92,CRKuro,,0000,0000,0000,,Le di la información a los otros cuatro.
+Dialogue: 0,0:13:02.48,0:13:03.81,CRKuro,,0000,0000,0000,,Sus datos pasados
+Dialogue: 0,0:13:05.43,0:13:06.74,CRKuro,,0000,0000,0000,,y futuros.
+Dialogue: 0,0:13:08.83,0:13:13.45,CRKuro,,0000,0000,0000,,{\i1}Detuvo a Aomine, pero \NTouou tiene otro poder...{\i0}
+Dialogue: 0,0:13:13.94,0:13:15.75,CRKuro,,0000,0000,0000,,{\i1}La defensa precognitiva de Momoi.{\i0}
+Dialogue: 0,0:13:16.64,0:13:18.44,CRKuro,KASAMATSU,0000,0000,0000,,¿Qué hago? ¿Le paso a Kise?
+Dialogue: 0,0:13:23.56,0:13:24.28,CRKuro,KASAMATSU,0000,0000,0000,,¡Moriyama!
+Dialogue: 0,0:13:24.82,0:13:26.40,CRKuro,IMAYOSHI,0000,0000,0000,,¡No caeremos en eso!
+Dialogue: 0,0:13:26.40,0:13:28.74,CRKuro,,0000,0000,0000,,Vas a fingir un pase...
+Dialogue: 0,0:13:28.74,0:13:30.41,CRKuro,IMAYOSHI,0000,0000,0000,,¡Y tratarás de encestar!
+Dialogue: 0,0:13:33.37,0:13:34.62,CRKuro,IZUKI,0000,0000,0000,,¿Lo sabían?
+Dialogue: 0,0:13:34.96,0:13:36.24,CRKuro,KASAMATSU,0000,0000,0000,,¡Estás equivocado!
+Dialogue: 0,0:13:36.24,0:13:38.08,CRKuro,,0000,0000,0000,,En realidad voy a lo que sigue...
+Dialogue: 0,0:13:38.56,0:13:40.28,CRKuro,KASAMATSU,0000,0000,0000,,¡El giro!
+Dialogue: 0,0:13:41.32,0:13:43.76,CRKuro,IMAYOSHI,0000,0000,0000,,¡A un salto {\i1}fadeaway{\i0}!
+Dialogue: 0,0:13:45.52,0:13:46.47,CRKuro,FURIHATA,0000,0000,0000,,¡También sabía de esto!
+Dialogue: 0,0:13:46.74,0:13:50.39,CRKuro,KASAMATSU,0000,0000,0000,,¡Así es, pero no importa!
+Dialogue: 0,0:13:50.68,0:13:52.71,CRKuro,IMAYOSHI,0000,0000,0000,,{\i1}¡Es veloz! ¡Estás bromeando!{\i0}
+Dialogue: 0,0:13:52.71,0:13:54.85,CRKuro,IMAYOSHI,0000,0000,0000,,{\i1}¡Sabía que venía pero no pude seguirle!{\i0}
+Dialogue: 0,0:14:01.02,0:14:02.69,CRKuro,KASAMATSU,0000,0000,0000,,{\i1}La rozó con su uña.{\i0}
+Dialogue: 0,0:14:03.72,0:14:04.65,CRKuro,KASAMATSU,0000,0000,0000,,¡Rebote!
+Dialogue: 0,0:14:04.65,0:14:06.45,CRKuro,HAYAKAWA,0000,0000,0000,,¡Está vez lo lograré!
+Dialogue: 0,0:14:11.11,0:14:13.54,CRKuro,SUSA,0000,0000,0000,,{\i1}Maldición, la ofensiva rebotó...{\i0}
+Dialogue: 0,0:14:13.54,0:14:15.07,CRKuro,WAKAMATSU,0000,0000,0000,,{\i1}Este tipo...{\i0}
+Dialogue: 0,0:14:15.07,0:14:16.46,CRKuro,WAKAMATSU,0000,0000,0000,,¡Ya cállate!
+Dialogue: 0,0:14:20.72,0:14:25.13,CRKuro,SAKURAI,0000,0000,0000,,{\i1}¡Su forma es única, es casi extraña!{\i0}
+Dialogue: 0,0:14:25.38,0:14:29.23,CRKuro,SAKURAI,0000,0000,0000,,{\i1}¡Su giro es terrible, pero \Nsus tiros aún entran!{\i0}
+Dialogue: 0,0:14:32.68,0:14:34.98,CRKuro,ANNOUNCER,0000,0000,0000,,Fin del primer cuarto.
+Dialogue: 0,0:14:33.76,0:14:37.23,ScoreboardL,SIGN,0000,0000,0000,,Kaijo
+Dialogue: 0,0:14:33.76,0:14:37.23,ScoreboardR,SIGN,0000,0000,0000,,Academia Touou
+Dialogue: 0,0:14:38.48,0:14:40.69,CRKuro,RIKO,0000,0000,0000,,Kaijo dominó por completo el primer cuarto.
+Dialogue: 0,0:14:40.99,0:14:44.91,CRKuro,KAGAMI,0000,0000,0000,,Aomine no está conteniéndose \Notra vez, ¿o sí?
+Dialogue: 0,0:14:45.52,0:14:48.09,CRKuro,KUROKO,0000,0000,0000,,No, debe de ir en serio.
+Dialogue: 0,0:14:49.60,0:14:52.71,CRKuro,KUROKO,0000,0000,0000,,Solo puedo asumir que \NKise-kun le está venciendo.
+Dialogue: 0,0:14:54.21,0:14:56.73,CRKuro,SATSUKI,0000,0000,0000,,Aomine-kun, escúchame. A este paso...
+Dialogue: 0,0:14:56.73,0:14:58.46,CRKuro,AOMINE,0000,0000,0000,,Cállate, Satsuki.
+Dialogue: 0,0:15:02.89,0:15:07.46,CRKuro,AOMINE,0000,0000,0000,,{\i1}Kise se ha hecho fuerte. Estoy en problemas.{\i0}
+Dialogue: 0,0:15:07.85,0:15:10.21,CRKuro,TAKEUCHI,0000,0000,0000,,¡Buen trabajo, chicos!
+Dialogue: 0,0:15:10.21,0:15:11.47,CRKuro,TAKEUCHI,0000,0000,0000,,¡Kise, también vas bien!
+Dialogue: 0,0:15:12.07,0:15:14.97,CRKuro,MORIYAMA,0000,0000,0000,,No perderemos contra Aomine. A este ritmo...
+Dialogue: 0,0:15:14.97,0:15:17.47,CRKuro,KISE,0000,0000,0000,,Eso no lo sé.
+Dialogue: 0,0:15:22.34,0:15:25.71,CRKuro,KISE,0000,0000,0000,,Si ganamos de esta forma, \Nsería demasiado sencillo.
+Dialogue: 0,0:15:26.56,0:15:30.01,CRKuro,HYUGA,0000,0000,0000,,Kaijo va a la cabeza. \NHonestamente, me sorprende.
+Dialogue: 0,0:15:30.01,0:15:30.86,CRKuro,IZUKI,0000,0000,0000,,Sí.
+Dialogue: 0,0:15:31.49,0:15:34.45,CRKuro,KAGAMI,0000,0000,0000,,No esperaba que Kise aplastara \Na Aomine tan fuertemente.
+Dialogue: 0,0:15:34.98,0:15:37.25,CRKuro,KAGAMI,0000,0000,0000,,Definitivamente se ha hecho más fuerte.
+Dialogue: 0,0:15:39.41,0:15:40.79,CRKuro,KIYOSHI,0000,0000,0000,,¿Puedo preguntarles algo?
+Dialogue: 0,0:15:41.50,0:15:43.71,CRKuro,KIYOSHI,0000,0000,0000,,¿Cómo vencieron a Kaijo?
+Dialogue: 0,0:15:44.82,0:15:46.52,CRKuro,ALL,0000,0000,0000,,Mmm...
+Dialogue: 0,0:15:46.52,0:15:48.42,CRKuro,KAGAMI,0000,0000,0000,,Con... ¿espíritu?
+Dialogue: 0,0:15:50.84,0:15:54.32,CRKuro,KUROKO,0000,0000,0000,,También, dije que Aomine-kun \Nestá jugando en serio,
+Dialogue: 0,0:15:54.32,0:15:57.81,CRKuro,,0000,0000,0000,,él continúa mejorando \Nmientras progresa el juego.
+Dialogue: 0,0:15:58.65,0:16:00.44,CRKuro,KUROKO,0000,0000,0000,,Entonces, si va a mejorar,
+Dialogue: 0,0:16:00.44,0:16:02.11,CRKuro,,0000,0000,0000,,probablemente sea pronto.
+Dialogue: 0,0:16:05.82,0:16:08.48,CRKuro,HAYAKAWA,0000,0000,0000,,¡Bien! ¡Vamos!
+Dialogue: 0,0:16:08.48,0:16:11.20,CRKuro,HAYAKAWA,0000,0000,0000,,¡Hagámoslo! ¡Busquemos esos rebotes!
+Dialogue: 0,0:16:11.56,0:16:14.29,CRKuro,HAYAKAWA,0000,0000,0000,,¡Estoy listo para hacerlo! ¡Sí!
+Dialogue: 0,0:16:14.29,0:16:16.91,CRKuro,WAKAMATSU,0000,0000,0000,,¡Ese tipo no cierra la boca!
+Dialogue: 0,0:16:17.36,0:16:20.35,CRKuro,IMAYOSHI,0000,0000,0000,,Tú también eres muy ruidoso.
+Dialogue: 0,0:16:20.35,0:16:21.29,CRKuro,WAKAMATSU,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:16:21.29,0:16:22.36,CRKuro,SUSA,0000,0000,0000,,En realidad se parecen.
+Dialogue: 0,0:16:22.36,0:16:23.83,CRKuro,WAKAMATSU,0000,0000,0000,,¡Mientes!
+Dialogue: 0,0:16:24.21,0:16:29.43,CRKuro,IMAYOSHI,0000,0000,0000,,De todos modos, no es divertido \Nver cómo tu oponente celebra.
+Dialogue: 0,0:16:30.91,0:16:32.73,CRKuro,IMAYOSHI,0000,0000,0000,,Vayamos despacio, ¿no?
+Dialogue: 0,0:16:38.99,0:16:42.11,CRKuro,HYUGA,0000,0000,0000,,Pensé que serían más \Nagresivos desde el inicio,
+Dialogue: 0,0:16:42.11,0:16:44.31,CRKuro,,0000,0000,0000,,pero están bastante silenciosos.
+Dialogue: 0,0:16:56.97,0:16:57.74,CRKuro,FURIHATA,0000,0000,0000,,¡Ahí está!
+Dialogue: 0,0:16:57.74,0:17:00.10,CRKuro,FUKUDA,0000,0000,0000,,¡Touou se llevó el primer \Npunto del segundo cuarto!
+Dialogue: 0,0:17:04.39,0:17:05.39,CRKuro,WAKAMATSU,0000,0000,0000,,¡Tranquilícense!
+Dialogue: 0,0:17:05.39,0:17:07.62,CRKuro,WAKAMATSU,0000,0000,0000,,¡Vamos a tomarlo de vuelta!
+Dialogue: 0,0:17:10.37,0:17:11.80,CRKuro,WAKAMATSU,0000,0000,0000,,{\i1}Este tipo...{\i0}
+Dialogue: 0,0:17:12.31,0:17:18.26,CRKuro,IMAYOSHI,0000,0000,0000,,Sé que eres veloz, así \Nque no te dejaré ir.
+Dialogue: 0,0:17:20.12,0:17:22.64,CRKuro,IMAYOSHI,0000,0000,0000,,Déjame decirte otra cosa.
+Dialogue: 0,0:17:26.01,0:17:28.56,CRKuro,IMAYOSHI,0000,0000,0000,,No importa contra quien \Njuegue, Aomine no pierde.
+Dialogue: 0,0:17:29.69,0:17:31.61,CRKuro,IMAYOSHI,0000,0000,0000,,Él es el mejor.
+Dialogue: 0,0:17:32.80,0:17:34.07,CRKuro,KISE,0000,0000,0000,,{\i1}¡Esta presión!{\i0}
+Dialogue: 0,0:17:34.98,0:17:37.35,CRKuro,KAGAMI,0000,0000,0000,,{\i1}¡Puedo sentirla hasta aquí arriba!{\i0}
+Dialogue: 0,0:17:37.35,0:17:39.03,CRKuro,KAGAMI,0000,0000,0000,,{\i1}¡Su concentración es intensa!{\i0}
+Dialogue: 0,0:17:42.12,0:17:45.67,CRKuro,KASAMATSU,0000,0000,0000,,No sé que es lo que planeas, \Npero nuestro Kise...
+Dialogue: 0,0:17:46.23,0:17:47.63,CRKuro,IMAYOSHI,0000,0000,0000,,¿Planear?
+Dialogue: 0,0:17:47.63,0:17:49.46,CRKuro,,0000,0000,0000,,No hacemos nada de eso.
+Dialogue: 0,0:17:49.87,0:17:53.46,CRKuro,IMAYOSHI,0000,0000,0000,,Planear es algo que perdedores \Ncomo tú tienen que hacer.
+Dialogue: 0,0:17:55.87,0:17:58.81,CRKuro,IMAYOSHI,0000,0000,0000,,Dicho de forma simple, \Ndiferencia en habilidades.
+Dialogue: 0,0:17:59.82,0:18:02.12,CRKuro,IMAYOSHI,0000,0000,0000,,Hay muchas razones para eso.
+Dialogue: 0,0:18:02.12,0:18:03.31,CRKuro,,0000,0000,0000,,Por ejemplo...
+Dialogue: 0,0:18:05.46,0:18:07.63,CRKuro,IMAYOSHI,0000,0000,0000,,¡Agilidad!
+Dialogue: 0,0:18:08.40,0:18:10.01,CRKuro,KISE,0000,0000,0000,,{\i1}¿Sabe lo que estoy planeando?{\i0}
+Dialogue: 0,0:18:10.01,0:18:12.52,CRKuro,KISE,0000,0000,0000,,{\i1}¡No, solo es veloz!{\i0}
+Dialogue: 0,0:18:12.86,0:18:16.33,CRKuro,AOMINE,0000,0000,0000,,Dijiste que me conoces mejor que nadie.
+Dialogue: 0,0:18:16.76,0:18:18.99,CRKuro,AOMINE,0000,0000,0000,,¿No pensaste que es igual a la inversa?
+Dialogue: 0,0:18:22.59,0:18:23.61,CRKuro,KISE,0000,0000,0000,,De izquierda...
+Dialogue: 0,0:18:23.61,0:18:25.96,CRKuro,KISE,0000,0000,0000,,¡a una finta a la derecha!
+Dialogue: 0,0:18:27.63,0:18:28.54,CRKuro,KISE,0000,0000,0000,,¡Lo detuve!
+Dialogue: 0,0:18:32.16,0:18:33.92,CRKuro,KISE,0000,0000,0000,,No... ¿al contrario?
+Dialogue: 0,0:18:34.68,0:18:37.04,CRKuro,IMAYOSHI,0000,0000,0000,,Y entonces, la destreza.
+Dialogue: 0,0:18:38.19,0:18:39.66,CRKuro,KAGAMI,0000,0000,0000,,{\i1}¿En serio?{\i0}
+Dialogue: 0,0:18:39.66,0:18:42.35,CRKuro,,0000,0000,0000,,{\i1}Kise debía tener la ventaja...{\i0}
+Dialogue: 0,0:18:42.63,0:18:44.45,CRKuro,KAGAMI,0000,0000,0000,,{\i1}¡Pero forzó otra jugada{\i0}
+Dialogue: 0,0:18:44.45,0:18:46.97,CRKuro,,0000,0000,0000,,{\i1}por el centro de gravedad cambiante de Kise!{\i0}
+Dialogue: 0,0:18:51.46,0:18:53.19,CRKuro,KASAMATSU,0000,0000,0000,,¡Sin faltas, Kobori!
+Dialogue: 0,0:19:02.26,0:19:04.28,CRKuro,REFEREE,0000,0000,0000,,¡El tiro cuenta! ¡Un tiro libre!
+Dialogue: 0,0:19:06.97,0:19:08.06,CRKuro,KAWAHARA,0000,0000,0000,,¡Encestó!
+Dialogue: 0,0:19:08.06,0:19:09.71,CRKuro,FUKUDA,0000,0000,0000,,¿Cómo entró eso?
+Dialogue: 0,0:19:12.68,0:19:13.86,CRKuro,KOBORI,0000,0000,0000,,Perdón.
+Dialogue: 0,0:19:13.86,0:19:15.17,CRKuro,KASAMATSU,0000,0000,0000,,No te preocupes.
+Dialogue: 0,0:19:15.17,0:19:16.55,CRKuro,,0000,0000,0000,,Prepárate para la siguiente jugada.
+Dialogue: 0,0:19:25.18,0:19:28.64,ScoreboardL,SIGN,0000,0000,0000,,Kaijo
+Dialogue: 0,0:19:25.18,0:19:28.64,ScoreboardR,SIGN,0000,0000,0000,,Academia Touou
+Dialogue: 0,0:19:25.70,0:19:26.59,CRKuro,FURIHATA,0000,0000,0000,,¡Empataron!
+Dialogue: 0,0:19:26.59,0:19:28.64,CRKuro,KAWAHARA,0000,0000,0000,,¡Touou se les está acercando rápidamente!
+Dialogue: 0,0:19:29.05,0:19:30.41,CRKuro,HYUGA,0000,0000,0000,,Esto no es bueno.
+Dialogue: 0,0:19:30.41,0:19:33.04,CRKuro,,0000,0000,0000,,Ya no puede detener a Aomine.
+Dialogue: 0,0:19:33.04,0:19:34.11,CRKuro,,0000,0000,0000,,Es muy fuerte...
+Dialogue: 0,0:19:34.79,0:19:38.15,CRKuro,HYUGA,0000,0000,0000,,Al final, ni Kise puede vencerle.
+Dialogue: 0,0:19:43.64,0:19:44.68,CRKuro,TSUCHIDA,0000,0000,0000,,¿De nuevo?
+Dialogue: 0,0:19:45.26,0:19:47.71,CRKuro,RIKO,0000,0000,0000,,Kaijo intenta dejarle todo a Kise.
+Dialogue: 0,0:19:48.35,0:19:50.58,CRKuro,IMAYOSHI,0000,0000,0000,,Aún no lo entiendes.
+Dialogue: 0,0:19:50.58,0:19:55.42,CRKuro,IMAYOSHI,0000,0000,0000,,Tu Kise-kun es bueno copiando \Na los demás, pero solo en eso.
+Dialogue: 0,0:19:56.75,0:19:59.48,CRKuro,IMAYOSHI,0000,0000,0000,,Esa es la mayor razón por la \Nque Kise-kun no puede ganar.
+Dialogue: 0,0:20:01.42,0:20:03.70,CRKuro,IMAYOSHI,0000,0000,0000,,No tiene su propia arma.
+Dialogue: 0,0:20:04.45,0:20:07.68,CRKuro,IMAYOSHI,0000,0000,0000,,Es imposible que venza \Na Aomine en baloncesto.
+Dialogue: 0,0:20:09.87,0:20:12.18,CRKuro,KASAMATSU,0000,0000,0000,,Oye, ¿te dicen mucho
+Dialogue: 0,0:20:12.18,0:20:14.76,CRKuro,,0000,0000,0000,,que tienes una mala personalidad?
+Dialogue: 0,0:20:14.76,0:20:17.78,CRKuro,IMAYOSHI,0000,0000,0000,,Vaya. Eso es bastante cruel.
+Dialogue: 0,0:20:18.35,0:20:21.26,CRKuro,KASAMATSU,0000,0000,0000,,Eres tú el que no entiende.
+Dialogue: 0,0:20:21.26,0:20:24.99,CRKuro,KASAMATSU,0000,0000,0000,,Copiar técnicas y hacerlas \Ntuyas es aprender.
+Dialogue: 0,0:20:27.43,0:20:30.52,CRKuro,KASAMATSU,0000,0000,0000,,En otras palabras, es crecer.
+Dialogue: 0,0:20:31.61,0:20:32.54,CRKuro,AOMINE,0000,0000,0000,,Este tipo...
+Dialogue: 0,0:20:42.22,0:20:45.34,CRKuro,AOMINE,0000,0000,0000,,Ahora se mueve igual que Kasamatsu...
+Dialogue: 0,0:20:49.87,0:20:51.71,CRKuro,AOMINE,0000,0000,0000,,¡Qué lástima!
+Dialogue: 0,0:20:54.13,0:20:56.99,CRKuro,AOMINE,0000,0000,0000,,Yo soy tu marca.
+Dialogue: 0,0:20:56.99,0:20:59.90,CRKuro,,0000,0000,0000,,No asumas que soy igual a ese \Ntipo malvado de anteojos.
+Dialogue: 0,0:21:00.64,0:21:02.27,CRKuro,IMAYOSHI,0000,0000,0000,,¿Estás hablando de mí?
+Dialogue: 0,0:21:02.27,0:21:03.36,CRKuro,,0000,0000,0000,,¡Qué cruel!
+Dialogue: 0,0:21:05.53,0:21:07.71,CRKuro,ANNOUNCER,0000,0000,0000,,Preparatoria Kaijo, tiempo fuera.
+Dialogue: 0,0:21:08.78,0:21:11.75,ScoreboardL,SIGN,0000,0000,0000,,Kaijo
+Dialogue: 0,0:21:08.78,0:21:11.75,ScoreboardR,SIGN,0000,0000,0000,,Academia Touou
+Dialogue: 0,0:21:10.47,0:21:11.75,CRKuro,HYUGA,0000,0000,0000,,Empatados...
+Dialogue: 0,0:21:12.46,0:21:13.84,CRKuro,HYUGA,0000,0000,0000,,Pero el juego apenas está comenzando.
+Dialogue: 0,0:21:14.38,0:21:18.46,CRKuro,HYUGA,0000,0000,0000,,Touou no será fácil de \Nparar cuando tomen ritmo.
+Dialogue: 0,0:21:19.60,0:21:22.59,CRKuro,KIYOSHI,0000,0000,0000,,Pero la diferencia entre los \Nequipos no es tan grande.
+Dialogue: 0,0:21:23.10,0:21:26.39,CRKuro,KIYOSHI,0000,0000,0000,,La victoria se decidirá por la \Ndiferencia de sus jugadores estrella...
+Dialogue: 0,0:21:27.53,0:21:28.43,CRKuro,KIYOSHI,0000,0000,0000,,¿Qué harán?
+Dialogue: 0,0:21:30.31,0:21:31.34,CRKuro,KAGAMI,0000,0000,0000,,¿Kuroko?
+Dialogue: 0,0:21:40.85,0:21:44.54,CRKuro,KISE,0000,0000,0000,,{\i1}Tal y como pensé, Aominecchi{\i0} \N{\i1}es realmente increíble.{\i0}
+Dialogue: 0,0:21:45.33,0:21:48.90,CRKuro,KISE,0000,0000,0000,,{\i1}Si no nos preparamos bien,{\i0} \N{\i1}estaremos arruinados...{\i0}
+Dialogue: 0,0:21:51.68,0:21:54.97,CRKuro,TAKEUCHI,0000,0000,0000,,Los contraataques rápidos \Nson su especialidad.
+Dialogue: 0,0:21:54.97,0:21:56.86,CRKuro,TAKEUCHI,0000,0000,0000,,No igualen su ritmo.
+Dialogue: 0,0:21:56.86,0:21:57.92,CRKuro,TAKEUCHI,0000,0000,0000,,También, adentro...
+Dialogue: 0,0:21:57.92,0:21:58.96,CRKuro,KISE,0000,0000,0000,,Entrenador.
+Dialogue: 0,0:22:03.54,0:22:05.46,CRKuro,KISE,0000,0000,0000,,Eso que le mencioné antes del juego...
+Dialogue: 0,0:22:05.91,0:22:08.30,CRKuro,KISE,0000,0000,0000,,quiero que me permita hacerlo.
+Dialogue: 0,0:23:51.90,0:23:55.62,Preview,AOMINE,0000,0000,0000,,{\fad(1,478)}Avance
+Dialogue: 0,0:23:53.21,0:23:55.03,CRKuro,KISE,0000,0000,0000,,Quiero ganarle a Aominecchi.
+Dialogue: 0,0:23:55.03,0:23:56.51,CRKuro,AOMINE,0000,0000,0000,,¿Copiarme a mí?
+Dialogue: 0,0:23:56.51,0:23:59.29,CRKuro,,0000,0000,0000,,Aún si logras hacerlo no \Ncambiará el resultado.
+Dialogue: 0,0:23:59.29,0:24:01.68,CRKuro,KISE,0000,0000,0000,,No quiero que Aominecchi pierda.
+Dialogue: 0,0:24:01.68,0:24:03.79,CRKuro,AOMINE,0000,0000,0000,,El único que puede vencerme soy yo.
+Dialogue: 0,0:24:03.79,0:24:06.92,CRKuro,KISE,0000,0000,0000,,Dejaré de admirarle.
+Dialogue: 0,0:24:03.79,0:24:06.92,EpTitle,TEXT,0000,0000,0000,,Próximo capítulo:
+Dialogue: 0,0:24:03.79,0:24:06.92,EpTitle,TEXT,0000,0000,0000,,No malinterpretes
+Dialogue: 0,0:24:06.92,0:24:08.92,EpTitle,,0000,0000,0000,,
